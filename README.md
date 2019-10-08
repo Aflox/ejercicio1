@@ -1,2 +1,2 @@
 # ejercicio1
-Adri FG
+Adri FG.
