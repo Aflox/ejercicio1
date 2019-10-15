@@ -1,1 +1,3 @@
 Busca una cadena de caracteres específica en uno o varios archivos. 
+
+Merge con conflictos
