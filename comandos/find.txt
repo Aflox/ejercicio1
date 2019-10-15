@@ -1,3 +1,1 @@
 Busca una cadena de caracteres específica en uno o varios archivos. 
-Para saber la asiduidad con la que aparece la palabra o frase se utiliza el parámetro /C.
-Al añadir /I, el comando ignora las mayúsculas y las minúsculas en la búsqueda.
